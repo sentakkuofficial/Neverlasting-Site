@@ -1,5 +1,8 @@
 # NEVERLASTING.WORLD
 
+## Site is live at
+https://sentakkuofficial.github.io/Neverlasting-Site/
+
 > *A world where survival is earned, power is elemental, and every bond
 > carries a cost.*
 
